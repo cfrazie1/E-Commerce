@@ -2,28 +2,9 @@
   box-shadow: inset 0px 0px 4px 1px black;
 }
 
-<<<<<<< HEAD
-.categoriesDiv {
-  height: 300px;
-  width: 100%;
 
 
-}
 
-.products {
-  height: 250px;
-  width: 25%;
-  padding: 25px;
-  float: left;
-  margin: 10px 4% 10px 4%;
-  border: 2px solid lightgray;
-  text-align:center;
-}
-
-.products img {
-  height:100px;
-  width: 100px;
-=======
 
 
       /* --------- FOOTER ---------- */
@@ -37,5 +18,5 @@ footer {
 }
 .fp1 {
   margin-right: 10px;
->>>>>>> 6709904e0406be99fe921f8ad1064325506732fd
+
 }

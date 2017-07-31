@@ -1,0 +1,21 @@
+.categoriesDiv {
+  height: 300px;
+  width: 100%;
+
+
+}
+
+.products {
+  height: 250px;
+  width: 25%;
+  padding: 25px;
+  float: left;
+  margin: 10px 4% 10px 4%;
+  border: 2px solid lightgray;
+  text-align:center;
+}
+
+.products img {
+  height:100px;
+  width: 100px;
+}
